@@ -43,8 +43,8 @@ public class Prescription {
     }
 
     public String toString() {
-        return "Prescription details: {" + "start_time = " + start_time + 
-                ", end_time = " + end_time + ", strength = " + strength + '}';
+        return "Prescription details: {" + "Start Time = " + start_time + 
+                ", End Time = " + end_time + ", Strength = " + strength + '}';
     }
     
     
